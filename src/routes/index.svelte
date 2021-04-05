@@ -5,10 +5,7 @@
 <main>
 	<div class="flex-wrapper">
 		<div class="logo">
-			<Glitch
-				src="/static/images/feather-white.png"
-				altSrc="/static/images/feather-white-skull.png"
-			/>
+			<Glitch src="/images/feather-white.png" altSrc="/images/feather-white-skull.png" />
 		</div>
 		<div class="links">
 			<a target="_blank" rel="noopener noreferrer" href="https://www.github.com/DyingAlbatross">
